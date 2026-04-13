@@ -24,8 +24,13 @@ The algorithm successfully segmented the customer base into four highly actionab
 * 👻 **Lost Customers:** Low Spend, Single Purchase, Stale Activity.
   * *Strategy:* Cease active ad spend; downgrade to automated drip campaigns.
 
-## 3D Interactive Visualization*
-![3D Clustering Matrix](./3d_rfm_segmentation_matrix.png)
+## 3D Interactive Visualization
+
+![Interactive 3D Engine Demo](./3d_matrix_demo.gif)
+
+**[🚀 Click Here to interact with the live 3D Segmentation Engine](https://nbviewer.org/github/ifathurrasyid/rfm-customer-segmentation/blob/main/rfm_customer_segmentation.ipynb)**
+
+*(Note: The live engine is hosted via Jupyter nbviewer. It allows full zoom, pan, and hover interactivity without needing to run the code locally).*
 
 ## Tech Stack
 * **Core:** `Python`, `Pandas`, `NumPy`
