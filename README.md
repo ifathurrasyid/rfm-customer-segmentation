@@ -24,9 +24,8 @@ The algorithm successfully segmented the customer base into four highly actionab
 * 👻 **Lost Customers:** Low Spend, Single Purchase, Stale Activity.
   * *Strategy:* Cease active ad spend; downgrade to automated drip campaigns.
 
-## 3D Interactive Visualization
-*(Add a screenshot of your Plotly 3D scatter plot here)*
-`![3D Clustering Matrix](./path-to-your-image.png)`
+## 3D Interactive Visualization*
+![3D Clustering Matrix](./3d_rfm_segmentation_matrix.png)
 
 ## Tech Stack
 * **Core:** `Python`, `Pandas`, `NumPy`
