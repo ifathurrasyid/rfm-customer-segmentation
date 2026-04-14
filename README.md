@@ -28,9 +28,9 @@ The algorithm successfully segmented the customer base into four highly actionab
 
 ![Interactive 3D Engine Demo](./3d_matrix_demo.gif)
 
-**[🚀 Click Here to interact with the live 3D Segmentation Engine](https://nbviewer.org/github/ifathurrasyid/rfm-customer-segmentation/blob/main/rfm_customer_segmentation.ipynb)**
+**[🚀 Click Here to interact with the live 3D Segmentation Engine](https://ifathurrasyid.github.io/rfm-customer-segmentation/3d_rfm_segmentation_matrix.html)**
 
-*(Note: The live engine is hosted via Jupyter nbviewer. It allows full zoom, pan, and hover interactivity without needing to run the code locally).*
+*(Note: The live engine is hosted via GitHub Pages. It allows full zoom, pan, and hover interactivity in a dedicated, full-screen environment).*
 
 ## Tech Stack
 * **Core:** `Python`, `Pandas`, `NumPy`
